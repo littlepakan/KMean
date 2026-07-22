@@ -500,7 +500,7 @@ if model is not None:
 # Footer
 st.markdown("---")
 st.markdown("""
-<div style='text-align: center; color: #666; padding: 2rem;'>
+<div style='text-align: center; color: #FFF; padding: 2rem;'>
     <p>🎓 <strong>Machine Learning for Python Programming Course</strong></p>
     <p>Built with ❤️ using Streamlit | © 2026</p>
 </div>
