@@ -487,7 +487,7 @@ if model is not None:
         st.markdown("### 💡 How K-Means Works")
         st.markdown("""
         <div class="info-box">
-        <strong>K-Means Clusteringa Algorithm:</strong>
+        <strong>K-Means Clustering Algorithm:</strong>
         <ol>
             <li><strong>Initialization:</strong> Randomly place K cluster centers in the feature space</li>
             <li><strong>Assignment:</strong> Assign each data point to the nearest cluster center</li>
