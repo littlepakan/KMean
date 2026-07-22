@@ -7,7 +7,7 @@ Description: Interactive web app for K-Means clustering predictions
 import streamlit as st
 import pandas as pd
 import numpy as np
-import joblib
+# import joblib
 import plotly.express as px
 import plotly.graph_objects as go
 from pathlib import Path
